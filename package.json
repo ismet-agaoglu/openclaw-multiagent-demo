@@ -1,0 +1,11 @@
+{
+  "name": "openclaw-multiagent-demo",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node demo.js",
+    "test": "node demo.test.js"
+  },
+  "keywords": ["openclaw", "multiagent"],
+  "license": "MIT"
+}
